@@ -4,6 +4,7 @@ hr {
 
 .rodapé {
     background-color: var(--branco);
+    color: var(--azul-celeste);
     padding: 1em;
 }
 
